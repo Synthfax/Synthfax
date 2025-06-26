@@ -6,7 +6,7 @@
 # Hey, I'm Synthfax 👋
 
 <p align="center">
-  <img src="assets/profile.png" alt="Synthfax Avatar" width="150" style="border-radius: 50%;" />
+  <img src="assets/pfp.png" alt="Synthfax Avatar" width="150" style="border-radius: 50%;" />
 </p>
 
 I'm a passionate **Python Developer** with **2-3 years of experience** building cool projects and solving problems with code.
