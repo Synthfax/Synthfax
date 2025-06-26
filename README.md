@@ -4,7 +4,7 @@
   <img src="assets/pfp.png" alt="Synthfax Avatar" width="150" style="border-radius: 50%;" />
 </p>
 
-I'm a passionate **junior Python Developer** building cool projects and solving problems with code.
+I'm a **Junior Python Developer** building cool projects and solving problems with code.
 
 ---
 
