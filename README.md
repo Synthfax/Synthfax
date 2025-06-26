@@ -37,4 +37,10 @@ I'm a passionate **Python Developer** with **2-3 years of experience** building 
 
 ---
 
+## 🌐 Socials
+
+[![YouTube](https://img.shields.io/badge/YouTube-@SynthfaxDev-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SynthfaxDev)
+
+---
+
 Thanks for stopping by! Check out my repos and follow me to see what I’m building next.
