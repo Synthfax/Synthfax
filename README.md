@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Synthfax Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Synthfax/Synthfax/refs/heads/main/assets/banner.png" alt="Synthfax Banner" width="100%" />
 </p>
 
 # Hey, I'm Synthfax 👋
